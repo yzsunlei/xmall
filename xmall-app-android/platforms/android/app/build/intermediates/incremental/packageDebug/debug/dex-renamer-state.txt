@@ -1,0 +1,4 @@
+#Sun Apr 07 18:09:12 CST 2019
+base.0=D\:\\Raysun-Doc\\java\\xmall\\xmall-app-android\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+renamed.0=classes.dex
+file.0=D\:\\Raysun-Doc\\java\\xmall\\xmall-app-android\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0\\classes.dex
