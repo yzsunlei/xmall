@@ -8,7 +8,8 @@
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
     "server": "webpack-dev-server --config build/webpack.dev.conf.js",
     "start": "npm run dev",
-    "build": "node build/build.js"
+    "build": "node build/build.js",
+    "build-app": "node build/build.js && rm -rf ../xmall-app-android/www/* && cp -R dist/* ../xmall-app-android/www/"
   },
   "dependencies": {
     "babel-polyfill": "^6.26.0",
