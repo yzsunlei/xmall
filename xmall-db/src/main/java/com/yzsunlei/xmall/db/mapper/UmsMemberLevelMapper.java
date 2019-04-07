@@ -2,8 +2,6 @@ package com.yzsunlei.xmall.db.mapper;
 
 import com.yzsunlei.xmall.db.model.UmsMemberLevel;
 import com.yzsunlei.xmall.db.model.UmsMemberLevelExample;
-import com.yzsunlei.xmall.db.model.UmsMemberLevel;
-import com.yzsunlei.xmall.db.model.UmsMemberLevelExample;
 import java.util.List;
 import org.apache.ibatis.annotations.Param;
 

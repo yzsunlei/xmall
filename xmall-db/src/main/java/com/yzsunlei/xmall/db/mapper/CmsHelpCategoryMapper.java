@@ -2,8 +2,6 @@ package com.yzsunlei.xmall.db.mapper;
 
 import com.yzsunlei.xmall.db.model.CmsHelpCategory;
 import com.yzsunlei.xmall.db.model.CmsHelpCategoryExample;
-import com.yzsunlei.xmall.db.model.CmsHelpCategory;
-import com.yzsunlei.xmall.db.model.CmsHelpCategoryExample;
 import java.util.List;
 import org.apache.ibatis.annotations.Param;
 

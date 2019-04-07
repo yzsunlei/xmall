@@ -1,6 +1,5 @@
 package com.yzsunlei.xmall.db.mapper;
 
-import com.yzsunlei.xmall.db.model.UmsAdminRoleRelationExample;
 import com.yzsunlei.xmall.db.model.UmsAdminRoleRelation;
 import com.yzsunlei.xmall.db.model.UmsAdminRoleRelationExample;
 import java.util.List;

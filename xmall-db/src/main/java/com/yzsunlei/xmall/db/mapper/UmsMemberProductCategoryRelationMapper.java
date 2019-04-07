@@ -1,6 +1,5 @@
 package com.yzsunlei.xmall.db.mapper;
 
-import com.yzsunlei.xmall.db.model.UmsMemberProductCategoryRelationExample;
 import com.yzsunlei.xmall.db.model.UmsMemberProductCategoryRelation;
 import com.yzsunlei.xmall.db.model.UmsMemberProductCategoryRelationExample;
 import java.util.List;

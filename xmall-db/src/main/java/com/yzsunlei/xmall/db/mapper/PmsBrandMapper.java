@@ -1,6 +1,5 @@
 package com.yzsunlei.xmall.db.mapper;
 
-import com.yzsunlei.xmall.db.model.PmsBrandExample;
 import com.yzsunlei.xmall.db.model.PmsBrand;
 import com.yzsunlei.xmall.db.model.PmsBrandExample;
 import java.util.List;

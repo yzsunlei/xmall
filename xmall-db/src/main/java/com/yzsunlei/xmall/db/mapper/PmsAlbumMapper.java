@@ -1,7 +1,6 @@
 package com.yzsunlei.xmall.db.mapper;
 
 import com.yzsunlei.xmall.db.model.PmsAlbum;
-import com.yzsunlei.xmall.db.model.PmsAlbum;
 import com.yzsunlei.xmall.db.model.PmsAlbumExample;
 import java.util.List;
 import org.apache.ibatis.annotations.Param;

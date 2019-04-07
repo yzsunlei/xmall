@@ -2,8 +2,6 @@ package com.yzsunlei.xmall.db.mapper;
 
 import com.yzsunlei.xmall.db.model.CmsTopicComment;
 import com.yzsunlei.xmall.db.model.CmsTopicCommentExample;
-import com.yzsunlei.xmall.db.model.CmsTopicComment;
-import com.yzsunlei.xmall.db.model.CmsTopicCommentExample;
 import java.util.List;
 import org.apache.ibatis.annotations.Param;
 

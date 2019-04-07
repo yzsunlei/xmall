@@ -2,8 +2,6 @@ package com.yzsunlei.xmall.db.mapper;
 
 import com.yzsunlei.xmall.db.model.PmsProductCategory;
 import com.yzsunlei.xmall.db.model.PmsProductCategoryExample;
-import com.yzsunlei.xmall.db.model.PmsProductCategory;
-import com.yzsunlei.xmall.db.model.PmsProductCategoryExample;
 import java.util.List;
 import org.apache.ibatis.annotations.Param;
 

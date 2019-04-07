@@ -1,6 +1,5 @@
 package com.yzsunlei.xmall.db.mapper;
 
-import com.yzsunlei.xmall.db.model.UmsPermissionExample;
 import com.yzsunlei.xmall.db.model.UmsPermission;
 import com.yzsunlei.xmall.db.model.UmsPermissionExample;
 import java.util.List;

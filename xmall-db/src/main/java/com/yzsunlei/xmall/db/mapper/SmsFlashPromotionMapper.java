@@ -2,8 +2,6 @@ package com.yzsunlei.xmall.db.mapper;
 
 import com.yzsunlei.xmall.db.model.SmsFlashPromotion;
 import com.yzsunlei.xmall.db.model.SmsFlashPromotionExample;
-import com.yzsunlei.xmall.db.model.SmsFlashPromotion;
-import com.yzsunlei.xmall.db.model.SmsFlashPromotionExample;
 import java.util.List;
 import org.apache.ibatis.annotations.Param;
 

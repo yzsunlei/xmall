@@ -1,7 +1,6 @@
 package com.yzsunlei.xmall.db.mapper;
 
 import com.yzsunlei.xmall.db.model.UmsIntegrationChangeHistory;
-import com.yzsunlei.xmall.db.model.UmsIntegrationChangeHistory;
 import com.yzsunlei.xmall.db.model.UmsIntegrationChangeHistoryExample;
 import java.util.List;
 import org.apache.ibatis.annotations.Param;

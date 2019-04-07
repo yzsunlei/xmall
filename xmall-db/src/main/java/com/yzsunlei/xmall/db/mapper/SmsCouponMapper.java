@@ -1,6 +1,5 @@
 package com.yzsunlei.xmall.db.mapper;
 
-import com.yzsunlei.xmall.db.model.SmsCouponExample;
 import com.yzsunlei.xmall.db.model.SmsCoupon;
 import com.yzsunlei.xmall.db.model.SmsCouponExample;
 import java.util.List;

@@ -2,8 +2,6 @@ package com.yzsunlei.xmall.db.mapper;
 
 import com.yzsunlei.xmall.db.model.SmsHomeRecommendSubject;
 import com.yzsunlei.xmall.db.model.SmsHomeRecommendSubjectExample;
-import com.yzsunlei.xmall.db.model.SmsHomeRecommendSubject;
-import com.yzsunlei.xmall.db.model.SmsHomeRecommendSubjectExample;
 import java.util.List;
 import org.apache.ibatis.annotations.Param;
 

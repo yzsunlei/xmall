@@ -2,8 +2,6 @@ package com.yzsunlei.xmall.db.mapper;
 
 import com.yzsunlei.xmall.db.model.CmsPrefrenceArea;
 import com.yzsunlei.xmall.db.model.CmsPrefrenceAreaExample;
-import com.yzsunlei.xmall.db.model.CmsPrefrenceArea;
-import com.yzsunlei.xmall.db.model.CmsPrefrenceAreaExample;
 import java.util.List;
 import org.apache.ibatis.annotations.Param;
 

@@ -2,8 +2,6 @@ package com.yzsunlei.xmall.db.mapper;
 
 import com.yzsunlei.xmall.db.model.PmsProductVertifyRecord;
 import com.yzsunlei.xmall.db.model.PmsProductVertifyRecordExample;
-import com.yzsunlei.xmall.db.model.PmsProductVertifyRecord;
-import com.yzsunlei.xmall.db.model.PmsProductVertifyRecordExample;
 import java.util.List;
 import org.apache.ibatis.annotations.Param;
 

@@ -2,8 +2,6 @@ package com.yzsunlei.xmall.db.mapper;
 
 import com.yzsunlei.xmall.db.model.SmsHomeNewProduct;
 import com.yzsunlei.xmall.db.model.SmsHomeNewProductExample;
-import com.yzsunlei.xmall.db.model.SmsHomeNewProduct;
-import com.yzsunlei.xmall.db.model.SmsHomeNewProductExample;
 import java.util.List;
 import org.apache.ibatis.annotations.Param;
 

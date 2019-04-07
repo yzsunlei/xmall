@@ -2,8 +2,6 @@ package com.yzsunlei.xmall.db.mapper;
 
 import com.yzsunlei.xmall.db.model.PmsProductCategoryAttributeRelation;
 import com.yzsunlei.xmall.db.model.PmsProductCategoryAttributeRelationExample;
-import com.yzsunlei.xmall.db.model.PmsProductCategoryAttributeRelation;
-import com.yzsunlei.xmall.db.model.PmsProductCategoryAttributeRelationExample;
 import java.util.List;
 import org.apache.ibatis.annotations.Param;
 

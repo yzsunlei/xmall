@@ -2,8 +2,6 @@ package com.yzsunlei.xmall.db.mapper;
 
 import com.yzsunlei.xmall.db.model.UmsIntegrationConsumeSetting;
 import com.yzsunlei.xmall.db.model.UmsIntegrationConsumeSettingExample;
-import com.yzsunlei.xmall.db.model.UmsIntegrationConsumeSetting;
-import com.yzsunlei.xmall.db.model.UmsIntegrationConsumeSettingExample;
 import java.util.List;
 import org.apache.ibatis.annotations.Param;
 

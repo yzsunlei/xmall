@@ -1,6 +1,5 @@
 package com.yzsunlei.xmall.db.mapper;
 
-import com.yzsunlei.xmall.db.model.UmsMemberTagExample;
 import com.yzsunlei.xmall.db.model.UmsMemberTag;
 import com.yzsunlei.xmall.db.model.UmsMemberTagExample;
 import java.util.List;

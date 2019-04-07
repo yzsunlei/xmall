@@ -1,6 +1,5 @@
 package com.yzsunlei.xmall.db.mapper;
 
-import com.yzsunlei.xmall.db.model.OmsCompanyAddressExample;
 import com.yzsunlei.xmall.db.model.OmsCompanyAddress;
 import com.yzsunlei.xmall.db.model.OmsCompanyAddressExample;
 import java.util.List;

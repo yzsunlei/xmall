@@ -2,8 +2,6 @@ package com.yzsunlei.xmall.db.mapper;
 
 import com.yzsunlei.xmall.db.model.UmsRolePermissionRelation;
 import com.yzsunlei.xmall.db.model.UmsRolePermissionRelationExample;
-import com.yzsunlei.xmall.db.model.UmsRolePermissionRelation;
-import com.yzsunlei.xmall.db.model.UmsRolePermissionRelationExample;
 import java.util.List;
 import org.apache.ibatis.annotations.Param;
 

@@ -1,6 +1,5 @@
 package com.yzsunlei.xmall.db.mapper;
 
-import com.yzsunlei.xmall.db.model.UmsMemberMemberTagRelationExample;
 import com.yzsunlei.xmall.db.model.UmsMemberMemberTagRelation;
 import com.yzsunlei.xmall.db.model.UmsMemberMemberTagRelationExample;
 import java.util.List;

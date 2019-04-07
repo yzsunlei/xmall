@@ -2,8 +2,6 @@ package com.yzsunlei.xmall.db.mapper;
 
 import com.yzsunlei.xmall.db.model.OmsOrder;
 import com.yzsunlei.xmall.db.model.OmsOrderExample;
-import com.yzsunlei.xmall.db.model.OmsOrder;
-import com.yzsunlei.xmall.db.model.OmsOrderExample;
 import java.util.List;
 import org.apache.ibatis.annotations.Param;
 
