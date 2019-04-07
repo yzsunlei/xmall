@@ -26,12 +26,12 @@
                         password="${jdbc.password}">
         </jdbcConnection>
 
-        <javaModelGenerator targetPackage="com.yzsunlei.xmall.db.model" targetProject="mall-mbg\src\main\java"/>
+        <javaModelGenerator targetPackage="com.yzsunlei.xmall.db.model" targetProject="xmall-db\src\main\java"/>
 
-        <sqlMapGenerator targetPackage="com.yzsunlei.xmall.db.mapper" targetProject="mall-mbg\src\main\resources"/>
+        <sqlMapGenerator targetPackage="com.yzsunlei.xmall.db.mapper" targetProject="xmall-db\src\main\resources"/>
 
         <javaClientGenerator type="XMLMAPPER" targetPackage="com.yzsunlei.xmall.db.mapper"
-                             targetProject="mall-mbg\src\main\java"/>
+                             targetProject="xmall-db\src\main\java"/>
         <!--生成全部表tableName设为%-->
         <table tableName="%">
             <generatedKey column="id" sqlStatement="MySql" identity="true"/>
