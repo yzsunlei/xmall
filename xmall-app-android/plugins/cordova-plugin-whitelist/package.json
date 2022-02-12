@@ -19,7 +19,7 @@
     "#USER",
     "/"
   ],
-  "_resolved": "http://registry.npm.taobao.org/cordova-plugin-whitelist/download/cordova-plugin-whitelist-1.3.3.tgz",
+  "_resolved": "https://registry.npmmirror.com/cordova-plugin-whitelist/download/cordova-plugin-whitelist-1.3.3.tgz",
   "_shasum": "b5e85ecdbbfe5aeded40a1bf4ee2372e67d96fb4",
   "_spec": "cordova-plugin-whitelist@1",
   "_where": "E:\\yzsunlei\\3th-party-java\\Xmall\\xmall-app-android",
